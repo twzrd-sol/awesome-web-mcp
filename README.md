@@ -266,6 +266,7 @@ When evaluating document processing MCP servers for production:
 | [Snyk MCP](https://snyk.io/) | Vulnerability scanning for dependencies, containers, and IaC | HTTP | API Token | Proprietary |
 | [Vault MCP](https://www.vaultproject.io/) | Secrets management — dynamic credentials, encryption as a service | HTTP | Vault Token | MPL-2.0 |
 | [1Password MCP](https://developer.1password.com/) | Secrets retrieval from 1Password vaults via Connect Server | HTTP | Service Account | Proprietary |
+| [TWZRD Agent Intel](https://intel.twzrd.xyz) | Solana on-chain trust scoring for AI agents. Verify wallet reputation before x402 micropayments | Streamable HTTP | None (free tools) | Proprietary |
 
 ---
 
